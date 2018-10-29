@@ -4,7 +4,8 @@
   "description": "chalk hw",
   "main": "index.js",
   "dependencies": {
-    "chalk": "^2.4.1"
+    "chalk": "^2.4.1",
+    "chalk-animation": "^1.6.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
